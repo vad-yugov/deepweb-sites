@@ -46,65 +46,65 @@
 
 <a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
 
-- [Abacus Market](http://abacusswcjd6abmzaqjkadwh43rab6ciacuefvf5e3m6woknyscu6nyd.onion) - `http://abacusswcjd6abmzaqjkadwh43rab6ciacuefvf5e3m6woknyscu6nyd.onion`
+- [Abacus Market](http://abacusuxgckctjrvqtvjys6kzvwfn2rl2nayvabbsa7gse3c45imfrid.onion) - `http://abacusuxgckctjrvqtvjys6kzvwfn2rl2nayvabbsa7gse3c45imfrid.onion`
     - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://abacusswcjd6abmzaqjkadwh43rab6ciacuefvf5e3m6woknyscu6nyd.onion"><img src="/assets/abacus.png" width="600"><a>
+<a href="http://abacusuxgckctjrvqtvjys6kzvwfn2rl2nayvabbsa7gse3c45imfrid.onion"><img src="/assets/abacus.png" width="600"><a>
 
-- [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
+- [MGM Grand Market](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion) - `http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion`
   - **Accepted Cryptocurrency:** Bitcoin
 
-<a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
+<a href="http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
 
-- [TorZon Market](http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion) - `http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion`
+- [TorZon Market](http://qbdiuib3anw4pwbajofwemotxpkiahnwije7d47ghocpschwshmts3yd.onion) - `http://qbdiuib3anw4pwbajofwemotxpkiahnwije7d47ghocpschwshmts3yd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion"><img src="/assets/torzon.png" width="600"><a>
+<a href="http://qbdiuib3anw4pwbajofwemotxpkiahnwije7d47ghocpschwshmts3yd.onion"><img src="/assets/torzon.png" width="600"><a>
 
-- [Incognito Market](http://incognitiu4idkjjiu2i2zqpd6ckcnxiuxqtvrbttbggjy5tzyd6luqd.onion) - `http://incognitiu4idkjjiu2i2zqpd6ckcnxiuxqtvrbttbggjy5tzyd6luqd.onion`
+- [Incognito Market](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion) - `http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Ethereum
 
-<a href="http://incognitiu4idkjjiu2i2zqpd6ckcnxiuxqtvrbttbggjy5tzyd6luqd.onion"><img src="/assets/incognito.png" width="600"><a>
+<a href="http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion"><img src="/assets/incognito.png" width="600"><a>
 
-- [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
+- [DrugHub Market](http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion) - `http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion`
   - **Accepted Cryptocurrency:** Monero
 
-<a href="http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion"><img src="/assets/drughub.png" width="600"><a>
+<a href="http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion"><img src="/assets/drughub.png" width="600"><a>
 
-- [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
+- [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares.png" width="600"><a>
+<a href="http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion"><img src="/assets/ares.png" width="600"><a>
 
-- [Super Market](http://superxxl4vyvqn6nqcrhxz5micwf2of67se5il2u3nzhngcxzizs5jid.onion) - `http://superxxl4vyvqn6nqcrhxz5micwf2of67se5il2u3nzhngcxzizs5jid.onion`
+- [Super Market](http://ddosbayodb44dzp3ibla5blkhng4a5543m77uqja5vmsddwynic4styd.onion) - `http://ddosbayodb44dzp3ibla5blkhng4a5543m77uqja5vmsddwynic4styd.onion`
   - **Accepted Cryptocurrency:** Monero
 
-<a href="http://superxxl4vyvqn6nqcrhxz5micwf2of67se5il2u3nzhngcxzizs5jid.onion"><img src="/assets/supermarket.png" width="600"><a>
+<a href="http://ddosbayodb44dzp3ibla5blkhng4a5543m77uqja5vmsddwynic4styd.onion"><img src="/assets/supermarket.png" width="600"><a>
 
-- [Dark Matter Market](http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion) - `http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion`
+- [Dark Matter Market](http://darkmatx7kmmnoaeqyz3k4tl3hnur7bjheyewemm6tehstkgtdyep4ad.onion) - `http://darkmatx7kmmnoaeqyz3k4tl3hnur7bjheyewemm6tehstkgtdyep4ad.onion`
   - **Accepted Cryptocurrency:** Monero
 
-<a href="http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion"><img src="/assets/darkmatter.png" width="600"><a>
+<a href="http://darkmatx7kmmnoaeqyz3k4tl3hnur7bjheyewemm6tehstkgtdyep4ad.onion"><img src="/assets/darkmatter.png" width="600"><a>
 
 - [Kerberos Market](http://kerberozo4ijsbkohel45jgqnipkvxsflranm72zkwnei6gtowpvutyd.onion) - `http://kerberozo4ijsbkohel45jgqnipkvxsflranm72zkwnei6gtowpvutyd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://kerberozo4ijsbkohel45jgqnipkvxsflranm72zkwnei6gtowpvutyd.onion"><img src="/assets/kerberos.png" width="600"><a>
 
-- [Go Fish Market](http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion) - `http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion`
+- [Go Fish Market](http://gofish4opjxlihdxmloavljs7lqewg5xvczuontevcp6fwttmxqnp7qd.onion) - `http://gofish4opjxlihdxmloavljs7lqewg5xvczuontevcp6fwttmxqnp7qd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion"><img src="/assets/fish.png" width="600"><a>
+<a href="http://gofish4opjxlihdxmloavljs7lqewg5xvczuontevcp6fwttmxqnp7qd.onion"><img src="/assets/fish.png" width="600"><a>
 
 - [We The North - Market (Canada)](http://hn2paw7tzcw4fv7mvhzhj64dqigkmqoygu5cjmeq2rg4yrk4lb5ktkid.onion) - `http://hn2paw7tzcw4fv7mvhzhj64dqigkmqoygu5cjmeq2rg4yrk4lb5ktkid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://hn2paw7tzcw4fv7mvhzhj64dqigkmqoygu5cjmeq2rg4yrk4lb5ktkid.onion"><img src="/assets/wtn.png" width="600"><a>
 
-- [Flugsvamp 4.0 (Sweden)](http://fs4is7rudvtesbrdtlwuzlqnsbyb3mc4p57q26juwn5ckij27i27nsqd.onion) - `http://fs4is7rudvtesbrdtlwuzlqnsbyb3mc4p57q26juwn5ckij27i27nsqd.onion`
+- [Flugsvamp 4.0 (Sweden)](http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion) - `http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://fs4is7rudvtesbrdtlwuzlqnsbyb3mc4p57q26juwn5ckij27i27nsqd.onion"><img src="/assets/flugsvamp4.png" width="600"><a>
+<a href="http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion"><img src="/assets/flugsvamp4.png" width="600"><a>
 
 - [Mega Market (Russia)](http://mega555cvt2rpzrzaru2rohdjl6d4ttptmuybyxgguj2z3gwkhdlckqd.onion) - `http://mega555cvt2rpzrzaru2rohdjl6d4ttptmuybyxgguj2z3gwkhdlckqd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, USDT20
@@ -118,20 +118,20 @@
 
 ## Stores
 
-- [GammaGoblin](http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion) - `http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion`
+- [GammaGoblin](http://mb2lgz7zknnuf77qpdgxdlon65idlv6htwgxqd6esy545frhjzoi6nad.onion) - `http://mb2lgz7zknnuf77qpdgxdlon65idlv6htwgxqd6esy545frhjzoi6nad.onion`
   - **Accepted Cryptocurrency:** Bitcoin
 
-<a href="http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion"><img src="/assets/gammagoblin.png" width="600"><a>
+<a href="http://mb2lgz7zknnuf77qpdgxdlon65idlv6htwgxqd6esy545frhjzoi6nad.onion"><img src="/assets/gammagoblin.png" width="600"><a>
 
 - [SmokersCo](http://smoker2pb7hshxebiifyleiofablbjaigycpbpvppyehcm5ps7sc7jyd.onion) - `http://smoker2pb7hshxebiifyleiofablbjaigycpbpvppyehcm5ps7sc7jyd.onion`
   - **Accepted Cryptocurrency:** Monero
 
 <a href="http://smoker2pb7hshxebiifyleiofablbjaigycpbpvppyehcm5ps7sc7jyd.onion"><img src="/assets/smockers_co.png" width="600"><a>
 
-- [The Spitzenkörper](http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion) - `http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion`
+- [The Spitzenkörper](http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion) - `http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
-<a href="http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion"><img src="/assets/spitze.png" width="600"><a>
+<a href="http://spitzgblkde6uskdj7bon7fevke7sompyoxb44mwfl57immd2r7dbaid.onion"><img src="/assets/spitze.png" width="600"><a>
 
 - [Tribe Seuss](http://eisrgs2qjiuvof4qvch2yknfq2m6ha4qyipgvggepjaseorh4bhykiqd.onion) - `http://eisrgs2qjiuvof4qvch2yknfq2m6ha4qyipgvggepjaseorh4bhykiqd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
@@ -140,10 +140,10 @@
 
 ### Fraud Stores
 
-- [BidenCash](http://bidencptvqtzljbikekxysug6bqoflxeg66wvkw4fwzdvkijupkiufyd.onion) - `http://bidencptvqtzljbikekxysug6bqoflxeg66wvkw4fwzdvkijupkiufyd.onion`
+- [BidenCash](http://bidenc4cnnlpqkmikud37sgye44qokqckh6yp2b2ppn7uss2bqevgwad.onion) - `http://bidenc4cnnlpqkmikud37sgye44qokqckh6yp2b2ppn7uss2bqevgwad.onion`
   - **Accepted Cryptocurrency:** Bitcoin
 
-<a href="http://bidencptvqtzljbikekxysug6bqoflxeg66wvkw4fwzdvkijupkiufyd.onion"><img src="/assets/bidencash.png" width="600"><a>
+<a href="http://bidenc4cnnlpqkmikud37sgye44qokqckh6yp2b2ppn7uss2bqevgwad.onion"><img src="/assets/bidencash.png" width="600"><a>
 
 - [BriansClub](http://brians7jlxeoyxqorpne5qq6rxvbrnt7zzatfjhwigjvmyiey5mn54qd.onion) - `http://brians7jlxeoyxqorpne5qq6rxvbrnt7zzatfjhwigjvmyiey5mn54qd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin, Dash, USDT20
@@ -156,9 +156,9 @@
 
 <a href="http://hszyoqnluqd5q2sjhcdatvrq56dcq6dydvueqa73zujc27lpbychlfid.onion"><img src="/assets/eXch.png" width="600"><a>
 
-- [Swp.cx](http://uicrmri3fyv3qg4drdapwdwghb6fnr2awhujrgcxatxdozzljplqw2id.onion) - `http://uicrmri3fyv3qg4drdapwdwghb6fnr2awhujrgcxatxdozzljplqw2id.onion`
+- [Swp.cx](http://uicrmr3rtckrm3fh3knuvquhrhp5qvlpku7iyf3jttmgo6jpunu6rrad.onion) - `http://uicrmr3rtckrm3fh3knuvquhrhp5qvlpku7iyf3jttmgo6jpunu6rrad.onion`
 
-<a href="http://uicrmri3fyv3qg4drdapwdwghb6fnr2awhujrgcxatxdozzljplqw2id.onion"><img src="/assets/Swp.png" width="600"><a>
+<a href="http://uicrmr3rtckrm3fh3knuvquhrhp5qvlpku7iyf3jttmgo6jpunu6rrad.onion"><img src="/assets/Swp.png" width="600"><a>
 
 - [Xchange.me](http://xmxmrjwhh66fgn32cwi6qylqqsjh4dqj6mutrjxz4vqh4h5ipdifirqd.onion) - `http://xmxmrjwhh66fgn32cwi6qylqqsjh4dqj6mutrjxz4vqh4h5ipdifirqd.onion`
 
